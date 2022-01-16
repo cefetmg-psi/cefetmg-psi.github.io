@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/cefetmg-psi/cefetmg-psi.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Grupo 1: Sistema de Gestão e Pesquisa de Propriedades Intelectuais (SIGPPI)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<img align="left" width="100" height="100"   style="margin-right:30px" src="https://avatars.githubusercontent.com/u/87884184?s=200&v=4">
 
-```markdown
-Syntax highlighted code block
+* [Wiki](https://github.com/cie-cefet-mg/TCC-SIGPPI/wiki)
+* [GitHub](https://github.com/cie-cefet-mg)
+* [Vídeo]()
+* Integrantes:
 
-# Header 1
-## Header 2
-### Header 3
+<p style="margin-top:30px"></p>
 
-- Bulleted
-- List
+[<img src="https://avatars.githubusercontent.com/u/50891342?v=4" width="80">](https://github.com/MarcelaSilverio)
+[<img src="https://avatars.githubusercontent.com/u/51242342?v=4" width="80">](https://github.com/IzabelaAAndrade)
+[<img src="https://avatars.githubusercontent.com/u/56099401?v=4" width="80">](https://github.com/tassyla)
+[<img src="https://avatars.githubusercontent.com/u/50596361?v=4" width="80">](https://github.com/mayaramends)
+[<img src="https://avatars.githubusercontent.com/u/54759116?v=4" width="80">](https://github.com/isaac-portela)
+[<img src="https://avatars.githubusercontent.com/u/49450326?v=4" width="80">](https://github.com/mateus123finn)
 
-1. Numbered
-2. List
+## Grupo 2: DayByDay
 
-**Bold** and _Italic_ and `Code` text
+## Grupo 3: AchaPet
 
-[Link](url) and ![Image](src)
-```
+## Grupo 4: SpaceBooks
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Grupo 5: Debeauty
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cefetmg-psi/cefetmg-psi.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
