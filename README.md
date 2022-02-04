@@ -34,7 +34,7 @@ Sistema para localização de animais perdidos ou disponíveis para adoção  (<
 </p> 
 
 [<img src="https://avatars.githubusercontent.com/u/51198520?v=4" width="70" style="border-radius: 50%">](https://github.com/Arthur71149)
-[<img src="img_pendente.jpg" width="70" style="border-radius: 50%">](https://github.com/davi-rodrigues-pendente)
+[<img src="https://avatars.githubusercontent.com/u/79805373?v=4" width="70" style="border-radius: 50%">](https://github.com/davimesmo)
 [<img src="https://avatars.githubusercontent.com/u/51033478?v=4" width="70" style="border-radius: 50%">](https://github.com/Enriig)
 [<img src="https://avatars.githubusercontent.com/u/30507586?v=4" width="70" style="border-radius: 50%">](https://github.com/peo5)
 [<img src="https://avatars.githubusercontent.com/u/51083313?v=4" width="70" style="border-radius: 50%">](https://github.com/Muzzii)
